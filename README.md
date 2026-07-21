@@ -15,9 +15,6 @@
 
 Hey there! I'm **Naja-Sec** a developer who accidentally became a security guy.
 
-- 🔥 **Python developer** who loves building stuff — web apps, automation tools
-- 🕵️ **Web penetration testing** and security research for fun (and sometimes profit).
-- 🤖 **AI/ML hobbyist** — building agents, working with LLMs, RAG pipelines, and making bots do dumb things.
 
 ---
 
