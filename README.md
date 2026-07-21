@@ -66,7 +66,7 @@ Hey there! I'm **Naja-Sec** a developer who accidentally became a security guy.
 
 ## 💬 Quote
 
-> "Make it simple, stupid." — *Terry Davis*
+> "Make it simple AND stupid." — *Terry Davis*
 
 
 <p align="center">
