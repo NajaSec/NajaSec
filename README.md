@@ -13,12 +13,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-Hey there! I'm **Naja-Sec** a developer who accidentally became a security guy.
-
-
----
 
 
 ## 🛠️ My Toolkit
