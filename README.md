@@ -8,7 +8,7 @@
 
 
 <h1 align="center">⚡ Naja-Sec ⚡</h1>
-<h3 align="center">Python Developer | Security Enthusiast | AI Explorer</h3>
+<h3 align="center">Interested in security</h3>
 
 
 ---
